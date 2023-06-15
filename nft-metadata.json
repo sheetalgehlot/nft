@@ -1,0 +1,39 @@
+{
+    "name": "party glass #1",
+    "description": "Glasses are enjoying there party. Let's enjoy there party with them.",
+    "image": "ipfs://bafybeigquupqueyfgouydmn2t237ok2roc7dn2z5odrv4gwfqc55ghohzq/1.png",
+    "dna": "1daec162fca4d2cff1c1ac60d1b08f5beb60d40c",
+    "edition": 1,
+    "date": 1682616167690,
+    "attributes": [
+      {
+        "trait_type": "Glass",
+        "value": "redwhite"
+      },
+      {
+        "trait_type": "eyepair",
+        "value": "deepthought"
+      },
+      {
+        "trait_type": "smile",
+        "value": "smiley"
+      },
+      {
+        "trait_type": "hats",
+        "value": "winterhat"
+      },
+      {
+        "trait_type": "lefthand",
+        "value": "om"
+      },
+      {
+        "trait_type": "righthand",
+        "value": "twofinger"
+      },
+      {
+        "trait_type": "leg",
+        "value": "yellowshoe"
+      }
+    ],
+    "compiler": "Party Glass"
+  }
